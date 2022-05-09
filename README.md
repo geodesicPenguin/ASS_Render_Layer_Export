@@ -8,3 +8,5 @@ https://timlehr.com/export-all-maya-render-layers-as-ass-files-using-python/
 
 List of ASS args found here:
 https://answers.arnoldrenderer.com/questions/3652/flags-for-mayacmdsarnoldexportass.html
+
+This is not QUITE done yet. Need to edit some stuff and I want to add a UI. But no time right now.
